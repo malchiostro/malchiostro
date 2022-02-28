@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @malchiostro
 - 👀 I’m interested in UX-UI design 
 - 🌱 I’m currently learning HTML and CSS
-- 💞️ I’m looking to collaborate on UX-UI frameworks 
+- 💞️ I’m looking to collaborate on front-end UX-UI framework development 
 - 📫 How to reach me https://ceferrari.wixsite.com/archidesign
 
 <!---
